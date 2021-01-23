@@ -1,4 +1,4 @@
-const DB_URL = 'http://localhost:8080'
+const DB_URL = 'https://recipe-calculator-backend.herokuapp.com'
 
 
 Object.prototype.last = function () {
